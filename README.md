@@ -1,4 +1,4 @@
-# harfileanalysis
+# HAR (HTTP Archive) file analyser
 Python program to analyze HAR files (network tab exports) and calculate the number of events for each user_id.
 Helps the data analyst to debug events being sent by gtag (Google analytics 4), by producing an aggregate count of all events in the export. 
 
